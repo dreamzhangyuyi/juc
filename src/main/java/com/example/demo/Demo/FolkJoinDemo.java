@@ -1,7 +1,5 @@
 package com.example.demo.Demo;
 
-import jdk.nashorn.internal.objects.annotations.Constructor;
-import lombok.AllArgsConstructor;
 import lombok.Data;
 
 import java.util.concurrent.ExecutionException;
